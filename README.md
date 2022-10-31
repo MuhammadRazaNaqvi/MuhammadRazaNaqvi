@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - razamohammad16@gmail.com
--https://www.linkedin.com/in/naqvi16/
+- https://www.linkedin.com/in/naqvi16/
 - https://www.facebook.com/mohammad.raza.3344913/
 - https://twitter.com/MRaza_05
 
