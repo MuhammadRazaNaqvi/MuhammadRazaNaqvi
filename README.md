@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadRazaNaqvi
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning MERN as a Full Stack Developer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... anything 🐱‍👤
 - 📫 How to reach me ...
 - razamohammad16@gmail.com
 - https://www.linkedin.com/in/naqvi16/
