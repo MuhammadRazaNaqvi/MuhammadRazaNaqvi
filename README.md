@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadRazaNaqvi
 - 👀 I’m interested in development and cyber-security
-- 🧑‍💻 I’m currently learning ROR as a Full Stack Developer
+- 🧑‍💻 I’m currently learning Ruby on Rails as a Full Stack Developer
 - 🌱I have worked on many frameworks including Django and Flutter
 - 💞️ I’m looking to collaborate on ... anything 🐱‍👤
 - 📫 How to reach me ...
