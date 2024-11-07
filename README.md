@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MuhammadRazaNaqvi
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning MERN as a Full Stack Developer
+- 👀 I’m interested in development and cyber-security
+- 🧑‍💻 I’m currently learning ROR as a Full Stack Developer
+- 🌱I have worked on many frameworks including Django and Flutter
 - 💞️ I’m looking to collaborate on ... anything 🐱‍👤
 - 📫 How to reach me ...
 - razamohammad16@gmail.com
