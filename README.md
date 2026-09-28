@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadRazaNaqvi
 - 👀 I’m interested in development and cyber-security
-- 🌱I have worked on many frameworks including React Native, Django and Flutter
+- 🌱I have worked on many frameworks including React Native, MERN and Flutter
 - 💞️ I’m looking to collaborate on ... anything 🐱‍👤
 - 📫 How to reach me ...
 - razamohammad16@gmail.com
